@@ -1,0 +1,103 @@
+{
+   "token": "Njk3Nzg5NjIzNjE0NTcwNTI3.GbP7w6.29OT7XW1rcp59A913JsM0RsBg3UQ2fMwhpfbHQ",
+   "status": "online",
+   "log_message": "[<date>] Mirrored <author>'s message from <server>.",
+   "mirrors": [
+      {
+         "channel_ids": [
+            "984517568071073832"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1121849258363060266/60FBm7PjJAOUXxN1tnOK7c0kT9pTpI2nXq3LvK-34pDopaFOzZMchGNY6TOASj6T4YyD"
+         ],
+         "ignored_user_ids": [],
+         "requirements": {
+            "min_embeds_count": 0,
+            "min_content_length": 0,
+            "min_attachments_count": 0
+         },
+         "options": {
+            "use_webhook_profile": false,
+            "remove_attachments": false,
+            "mirror_messages_from_bots": true,
+            "mirror_reply_messages": true
+         },
+         "replacements": {
+            "content": [],
+            "embed": {}
+         }
+      },
+      {
+         "channel_ids": [
+            "984518611496476803"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1121849433550753913/6ss8MhGAqLuvVD7u2IMyix95ofgYZvFOphDXl_6picUbqddsX_ciq85tTBT7Mif7qgFK"
+         ],
+         "ignored_user_ids": [],
+         "requirements": {
+            "min_embeds_count": 0,
+            "min_content_length": 0,
+            "min_attachments_count": 0
+         },
+         "options": {
+            "use_webhook_profile": false,
+            "remove_attachments": false,
+            "mirror_messages_from_bots": true,
+            "mirror_reply_messages": true
+         },
+         "replacements": {
+            "content": [],
+            "embed": {}
+         }
+      },
+      {
+         "channel_ids": [
+            "984517624505438248"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1121849517084516512/B3CFYQunJnEp4WpjBzjdQnhd-SPOOghNflanXc71T88U-Tx87KECtUEACxhcR6Rhuhap"
+         ],
+         "ignored_user_ids": [],
+         "requirements": {
+            "min_embeds_count": 0,
+            "min_content_length": 0,
+            "min_attachments_count": 0
+         },
+         "options": {
+            "use_webhook_profile": false,
+            "remove_attachments": false,
+            "mirror_messages_from_bots": true,
+            "mirror_reply_messages": true
+         },
+         "replacements": {
+            "content": [],
+            "embed": {}
+         }
+      },
+      {
+         "channel_ids": [
+            "984518657826762803"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1121849923839725578/z4wla5uIzIdWhW_rI-fzWzZCTya5i84WuzaaPzLPPEYD9uCZx1EYha2vKN9gPnfwoUP0"
+         ],
+         "ignored_user_ids": [],
+         "requirements": {
+            "min_embeds_count": 0,
+            "min_content_length": 0,
+            "min_attachments_count": 0
+         },
+         "options": {
+            "use_webhook_profile": false,
+            "remove_attachments": false,
+            "mirror_messages_from_bots": true,
+            "mirror_reply_messages": true
+         },
+         "replacements": {
+            "content": [],
+            "embed": {}
+         }
+      }
+   ]
+}

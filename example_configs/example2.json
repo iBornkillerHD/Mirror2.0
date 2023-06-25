@@ -1,0 +1,52 @@
+{
+   "token": "abcdefghijklmnopqrstuvwxyz",
+   "status": "dnd",
+   "log_message": "[<date>] Mirrored <author>'s message from <server>.",
+   "mirrors": [
+      {
+         "channel_ids": [
+            "0122367467",
+            "3729837293",
+            "1204723987"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/2342367888/abcdefghijklmnopqrstuvwxyz"
+         ],
+         "options": {
+            "use_webhook_profile": true
+         },
+         "replacements": {
+            "content": [
+               {
+                  "replace": "facebook",
+                  "with": "instagram"
+               },
+               {
+                  "replace": "2389723983",
+                  "with": "2349280239"
+               }
+            ],
+            "embed": {
+               "title": [
+                  {
+                     "replace": "facebook",
+                     "with": "instagram"
+                  }   
+               ],
+               "description": [
+                  {
+                     "replace": "facebook",
+                     "with": "instagram"
+                  }   
+               ],
+               "author": [
+                  {
+                     "replace": "Example Bot",
+                     "with": "Discord Mirror Self Bot"
+                  }   
+               ]
+            }
+         }
+      }
+   ]
+}

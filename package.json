@@ -1,0 +1,16 @@
+{
+  "name": "discord-mirror-2.0",
+  "scripts": {
+    "start": "run-script-os",
+    "start:win32": "set NODE_NO_WARNINGS=1 && node dist/index.js",
+    "start:darwin:linux": "NODE_NO_WARNINGS=1 node dist/index.js",
+    "compile": "npx tsc --build src"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.12.2"
+  },
+  "devDependencies": {
+    "run-script-os": "^1.1.6",
+    "typescript": "^5.0.3"
+  }
+}

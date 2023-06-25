@@ -1,0 +1,33 @@
+{
+   "token": "abcdefghijklmnopqrstuvwxyz",
+   "status": "offline",
+   "log_message": "[<date>] Mirrored <author>'s message from <server>.",
+   "mirrors": [
+      {
+         "channel_ids": [
+            "0122367467",
+            "3729837293"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/2342367888/abcdefghijklmnopqrstuvwxyz",
+            "https://discord.com/api/webhooks/1204218749/zyxwvutsrqponmlkjihgfedcba"
+         ],
+         "options": {
+            "use_webhook_profile": true
+         }
+      },
+      {
+         "channel_ids": [
+            "0127623482",
+            "4236734882"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/3453453422/abcdefghijklmnopqrstuvwxyz",
+            "https://discord.com/api/webhooks/2348572792/zyxwvutsrqponmlkjihgfedcba"
+         ],
+         "requirements": {
+            "min_embeds_count": 1
+         }
+      }
+   ]
+}

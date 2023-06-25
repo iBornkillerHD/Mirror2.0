@@ -1,0 +1,15 @@
+{
+   "token": "abcdefghijklmnopqrstuvwxyz",
+   "status": "online",
+   "log_message": "[<date>] Mirrored <author>'s message from <server>.",
+   "mirrors": [
+      {
+         "channel_ids": [
+            "0123456789"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/0123456789/abcdefghijklmnopqrstuvwxyz"
+         ]
+      }
+   ]
+}
